@@ -108,9 +108,9 @@ const Testimonial = () => {
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
-                    Bound - Trolola
+                    Chiwinke - Udezue
                   </p>
-                  <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                  <h3 className="text-2xl font-bold">Chukwunwike Udezue</h3>
                   <p className="text-base tracking-wide text-gray-500">
                     Operation Officer
                   </p>
@@ -122,10 +122,10 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Travel Mobile App Design.
+                        TERIS WEB APP.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        via Linkedin - Mar 4, 2015 - Aug 30, 2021 test
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -137,11 +137,7 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. A
-                    dolorum, eos natus ipsum numquam veniam officia
-                    necessitatibus ratione quos debitis exercitationem
-                    repudiandae facilis id neque nihil accusantium perspiciatis
-                    repellat? Iste.
+                  Success Agare is a trusted professional I've worked with for several years. As a front-end developer, he consistently transforms digital projects with his expertise in React and Tailwind CSS. His innovative designs and attention to detail always impress. As a civil engineer, his skill in structural analysis and AutoCAD ensures our projects meet the highest standards. Success is always my sure plug for both front-end development and civil engineering
                   </p>
                 </div>
               </div>
@@ -159,7 +155,7 @@ const Testimonial = () => {
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
-                    Bound - Trolola
+                    Adekunle - Trolola
                   </p>
                   <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
                   <p className="text-base tracking-wide text-gray-500">
@@ -170,13 +166,13 @@ const Testimonial = () => {
               <div className="w-full lgl:w-[60%] h-full flex flex-col justify-between">
                 <img className="w-20 lgl:w-32" src={quote} alt="quote" />
                 <div className="w-full h-[70%] py-10 bg-gradient-to-r from-[#1e2024] to-[#23272b] rounded-lg shadow-shadowOne p-4 lgl:p-8 flex flex-col justify-center gap-4 lgl:gap-8">
-                  <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
+                  <div className="flex  justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
                         Travel Mobile App Design.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        via Linkedin - Mar 4, 2015 - Aug 30, 2021 test
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -221,7 +217,7 @@ const Testimonial = () => {
               <div className="w-full lgl:w-[60%] h-full flex flex-col justify-between">
                 <img className="w-20 lgl:w-32" src={quote} alt="quote" />
                 <div className="w-full h-[70%] py-10 bg-gradient-to-r from-[#1e2024] to-[#23272b] rounded-lg shadow-shadowOne p-4 lgl:p-8 flex flex-col justify-center gap-4 lgl:gap-8">
-                  <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
+                  <div className="flex  justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
                         Travel Mobile App Design.
