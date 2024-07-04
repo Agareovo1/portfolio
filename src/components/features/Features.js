@@ -8,12 +8,14 @@ import { FaGlobe, FaMobile, FaBars } from 'react-icons/fa'
 
 const Features = () => {
   return (
-    <section id='features' className='w-full h-[800px] pb-20  border-b-[1px] border-b-block'>
+    <section id='features' className='w-full py-20 border-b-[1px] border-b-black'>
+        <div className="flex justify-center items-center text-center">
        <Title title='Features' des='What I Do'/>
-       <div className='grid grid-cols-3 gap-20'>
+       </div>
+       <div className='grid grid-cols-1 md:grid-cols- xl:grid-cols-3 gap-6 xl:gap-20'>
        <Card 
             title="Business Strategy"
-            des="Recieve Briefs from clients, makes a proposal, do a preliminary design and thereafter a final design"
+            des="I connect with clients, offering 2D structural drawings on AutoCAD of reinforced concrete structures and steel. After understanding client requirements, I deliver detailed designs compliant with relevant codes in PDF or DWG formats."
             icon={<FaBars/>}
        />
        <Card
