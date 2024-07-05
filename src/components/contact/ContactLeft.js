@@ -11,13 +11,12 @@ const ContactLeft = () => {
         alt="contactImg"
       />
       <div className="flex flex-col gap-4">
-        <h3 className="text-3xl font-bold text-white">John Doe</h3>
+        <h3 className="text-3xl font-bold text-white">Agare Success</h3>
         <p className="text-lg font-normal text-gray-400">
-          MERN Stack Developer
+          Civil Engineer
         </p>
         <p className="text-base text-gray-400 tracking-wide">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis
-          ipsam autem cumque, accusantium dicta odio.
+          civil Engineering has become for us, second nature.
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Phone: <span className="text-lightText">+234 8100819378</span>

@@ -20,27 +20,27 @@ const Features = () => {
        />
        <Card
        title="SEO Optimization"
-       des="Recieve Briefs from clients, makes a proposal, do a preliminary design and thereafter a final design"
+       des="I enhance website visibility through effective SEO practices, including keyword research and on-page optimization, to drive organic traffic and improve search engine rankings."
        icon={<SiProgress/>}
        />
        <Card
        title="Mobile Development"
-       des="Recieve Briefs from clients, makes a proposal, do a preliminary design and thereafter a final design"
+       des="I create responsive mobile applications, ensuring seamless user experiences across all devices, from concept to deployment."
        icon={<FaMobile/>}
        />
        <Card
-       title="UX Design"
-       des="Recieve Briefs from clients, makes a proposal, do a preliminary design and thereafter a final design"
+       title="Structural Design"
+       des="With over six years of experience, I provide precise structural designs using advanced software, adhering to international standards like BS 8110, BS 5950, and Eurocode."
        icon={<SiAntdesign/>}
        />
        <Card
        title="Hosting Websites"
-       des="Recieve Briefs from clients, makes a proposal, do a preliminary design and thereafter a final design"
+       des="I offer reliable web hosting services with high uptime and fast loading speeds, ensuring your website remains accessible and secure."
        icon={<FaGlobe/>}
        />
        <Card
        title='App Development'
-       des="Recieve Briefs from clients, makes a proposal, do a preliminary design and thereafter a final design"
+       des="I develop functional and engaging web and mobile apps using technologies like React.js, Ruby on Rails, and Tailwind CSS, focusing on intuitive interfaces and robust functionality."
         icon={<AiFillAppstore/>}
        />
        </div>

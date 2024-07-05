@@ -18,14 +18,15 @@ const Projects = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectCard
           title="SOCIAL MEDIA CLONE"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des=" replicating the functionality of Instagram,allowing users to share photos, 
+          follow others, and engage through comments and likes.By utilizing ReactJS for 
+          the frontend and Firebase for the backend,you'll have the tools to build a 
+          scalable and dynamic Instagram-like application."
           src={projectOne}
         />
         <ProjectCard
-          title="E-commerce Website"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          title="Web-App With External API"
+          des="Multipage Page React App whose first page will display all the pokemon, with lazy loading. Another page will show the detail of a specific pokemon.the application provide a search bar to filter pokemon. "
           src={projectTwo}
         />
         <ProjectCard
